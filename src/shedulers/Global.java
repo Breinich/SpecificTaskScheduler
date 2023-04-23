@@ -1,7 +1,5 @@
 package shedulers;
 
-import shedulers.HighRobin;
-import shedulers.LowSrtf;
 import tasks.NameComp;
 import tasks.PriorComp;
 import tasks.StartComp;
